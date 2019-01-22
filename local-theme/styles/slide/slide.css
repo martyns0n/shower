@@ -44,13 +44,5 @@
 /* Number */
 
 .slide::after {
-    position: absolute;
-    right: 0;
-    bottom: 38px;
-    left: 0;
-    color: var(--color-light);
-    line-height: 18px;
-    text-align: center;
-    counter-increment: slide;
-    content: counter(slide);
+    display: none;shout
 }
