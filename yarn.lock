@@ -9,7 +9,6 @@
   dependencies:
     any-observable "^0.3.0"
 
-<<<<<<< HEAD
 "@shower/material@^2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@shower/material/-/material-2.2.0.tgz#282e867a0bbb9e3bfa11ce0a8eeda4bc79e8039c"
@@ -20,8 +19,6 @@
   resolved "https://registry.yarnpkg.com/@shower/ribbon/-/ribbon-3.2.1.tgz#8fcc7b4aa797d0c3714db8a9744eeb254ca075e4"
   integrity sha512-ubWAQ85nZfE3oeyqsA1XENK0XaocicbjF/5o4hYDB0pJZdo0fXCFFCMr15O0bmJVM+BmH40xzk88GLMPOEWtCA==
 
-=======
->>>>>>> add yarn.lock
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
@@ -482,11 +479,7 @@ browser-sync-ui@^2.26.2:
     socket.io-client "^2.0.4"
     stream-throttle "^0.1.3"
 
-<<<<<<< HEAD
 browser-sync@^2.24.6, browser-sync@^2.26.3:
-=======
-browser-sync@^2.24.6, browser-sync@^2.24.7:
->>>>>>> add yarn.lock
   version "2.26.3"
   resolved "https://registry.yarnpkg.com/browser-sync/-/browser-sync-2.26.3.tgz#1b59bd5935938a5b0fa73b3d78ef1050bd2bf912"
   integrity sha512-VLzpjCA4uXqfzkwqWtMM6hvPm2PNHp2RcmzBXcbi6C9WpkUhhFb8SVAr4CFrCsFxDg+oY6HalOjn8F+egyvhag==
@@ -3993,19 +3986,6 @@ shower-core@^2.1.0:
   resolved "https://registry.yarnpkg.com/shower-core/-/shower-core-2.1.0.tgz#7327ae3a847a0b0b9612f4ad4c648ff3639ce416"
   integrity sha1-cyeuOoR6CwuWEvStTGSP82Oc5BY=
 
-<<<<<<< HEAD
-=======
-shower-material@^2.1.4:
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/shower-material/-/shower-material-2.1.4.tgz#0952939e687273bd7621e38bb80cd3f2192ee2cf"
-  integrity sha512-Jj4CRo7aOc/3lfFAox+9spktY2IJjAqC3bJFsNWrMGF/cxbcptzKnXJwjZB8DsLLSMGvyZfwGzt3s3F+Ir1zSA==
-
-shower-ribbon@^3.1.4:
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/shower-ribbon/-/shower-ribbon-3.1.4.tgz#b6f00d145d9419f44f63d25a1c0693cdf2d46ce1"
-  integrity sha512-6lOyLKRYGMSfJQfZNm+XyhfHWtQfRGj4wIVW5QxZdEhS+iFkowVXyqVbLLR0Du32kc7eV5ex63sghOGFZQcrXA==
-
->>>>>>> add yarn.lock
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
